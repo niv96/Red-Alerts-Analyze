@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/97378548/155993356-bb5b5d7f-6d1a-4222-b49c-1e9ecc6af7a7.png)
+
 # Red-Alerts-Analyze - Data Science Project
 
 Since 2014 has been over 23,000 alerts in Israel.
@@ -13,7 +15,6 @@ to answer these questions we did a number of steps:
 4. Machine learning
 5. conclusions
 
-![image](https://user-images.githubusercontent.com/97378548/155993356-bb5b5d7f-6d1a-4222-b49c-1e9ecc6af7a7.png)
 
 ![image](https://user-images.githubusercontent.com/97378548/155993400-7407e8ad-a583-466c-a09b-af0af042bbdf.png)
 
